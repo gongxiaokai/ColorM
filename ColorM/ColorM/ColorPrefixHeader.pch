@@ -1,0 +1,29 @@
+//
+//  ColorPrefixHeader.pch
+//  ColorM
+//
+//  Created by gongwenkai on 2017/2/3.
+//  Copyright © 2017年 gongwenkai. All rights reserved.
+//
+
+#ifndef ColorPrefixHeader_pch
+#define ColorPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#define GDT_APPID                       @"1105970164"
+#define GDT_BANNER_CUSTOM               @"8070019950556345"
+#define GDT_INTERSTITIAL_CUSTOMFAV      @"8090811940054386"
+#define GDT_BANNER_MASTER               @"3020412930050303"
+#define GDT_BANNER_DETAIL               @"2090818950351384"
+#define GDT_BANNER_FAV                  @"5000316910355387"
+#define GDT_OPENAD                      @"2020716970355398"
+#define GDT_ADSUPPOT1                   @"1050818900256670"
+#define GDT_ADSUPPOT2                   @"5080419970057654"
+#define GDT_ADSUPPOT3                   @"5090018910657665"
+#define GDT_ADSUPPOT4                   @"7070116980653636"
+#define GDT_ADSUPPOT5                   @"1090912980455627"
+
+#endif /* ColorPrefixHeader_pch */
